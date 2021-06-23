@@ -1,0 +1,99 @@
+.....................Method Overriding......................
+1. Which of this keyword can be used in a subclass to call the constructor of superclass?
+a) super
+b) this
+c) extent
+d) extends
+Answer: a
+2. What is the process of defining a method in a subclass having same name & type signature as a method in its superclass?
+a) Method overloading
+b) Method overriding
+c) Method hiding
+d) None of the mentioned
+Answer: b
+3. Which of these keywords can be used to prevent Method overriding?
+a) static
+b) constant
+c) protected
+d) final
+Answer: d
+4. Which of these is correct way of calling a constructor having no parameters, of superclass A by subclass B?
+a) super(void);
+b) superclass.();
+c) super.A();
+d) super();
+Answer: d
+6. Which of these is supported by method overriding in Java?
+a) Abstraction
+b) Encapsulation
+c) Polymorphism
+d) None of the mentioned
+Answer: c
+.......................The Object Class.......................
+1. Which of these class is superclass of every class in Java?
+a) String class
+b) Object class
+c) Abstract class
+d) ArrayList class
+Answer: b
+2. Which of these method of Object class can clone an object?
+a) Objectcopy()
+b) copy()
+c) Object clone()
+d) clone()
+Answer: c
+3. Which of these method of Object class is used to obtain class of an object at run time?
+a) get()
+b) void getclass()
+c) Class getclass()
+d) None of the mentioned
+Answer: c
+4. Which of these keywords can be used to prevent inheritance of a class?
+a) super
+b) constant
+c) class
+d) final
+Answer: d
+5. Which of these keywords cannot be used for a class which has been declared final?
+a) abstract
+b) extends
+c) abstract and extends
+d) none of the mentioned
+Answer: a
+6. Which of these class relies upon its subclasses for complete implementation of its methods?
+a) Object class
+b) abstract class
+c) ArrayList class
+d) None of the mentioned
+Answer: b
+.....................Inheritance – Abstract Class and Super.......
+1. Which of these keywords are used to define an abstract class?
+a) abst
+b) abstract
+c) Abstract
+d) abstract class
+Answer: b
+2. Which of these is not abstract?
+a) Thread
+b) AbstractList
+c) List
+d) None of the Mentioned
+Answer: a
+3. If a class inheriting an abstract class does not define all of its function then it will be known as?
+a) Abstract
+b) A simple class
+c) Static class
+d) None of the mentioned
+Answer: a
+4. Which of these is not a correct statement?
+a) Every class containing abstract method must be declared abstract
+b) Abstract class defines only the structure of the class not its implementation
+c) Abstract class can be initiated by new operator
+d) Abstract class can be inherited
+Answer: c
+5. Which of these packages contains abstract keyword?
+a) java.lang
+b) java.util
+c) java.io
+d) java.system
+Answer: a
